@@ -18,4 +18,7 @@ This repository contains a description and additional materials for CS-2: Viral 
 Dataset can be found [here](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
 
 #### Articles to Check Out
-https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
+https://www.ibm.com/topics/convolutional-neural-networks
+https://www.r-bloggers.com/2018/07/convolutional-neural-networks-in-r/
+https://www.geeksforgeeks.org/k-means-clustering-in-r-programming/
+https://www.analyticsvidhya.com/blog/2022/07/building-a-deep-learning-image-classifier-with-keras-using-r/
