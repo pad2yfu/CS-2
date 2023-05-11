@@ -16,3 +16,6 @@ This repository contains a description and additional materials for CS-2: Viral 
 #### Link to Data
 
 Dataset can be found [here](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
+
+#### Articles to Check Out
+https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
